@@ -1,5 +1,14 @@
 {
+    "name": "tahiryasin/yii-shortcode",
+    "description": "Yii component that enables you to create WordPress like shortcodes.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tahir Yasin",
+            "email": "scriptbaker@gmail.com"
+        }
+    ],
     "require": {
-        "tahiryasin/yii-shortcode": "1.0"
+        "php": ">=5.4.0"
     }
 }
